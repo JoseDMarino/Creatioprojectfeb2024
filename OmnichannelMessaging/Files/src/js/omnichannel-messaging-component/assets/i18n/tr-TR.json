@@ -1,0 +1,160 @@
+{
+    "LookupDialog": {
+        "TitleTemplate": "Select: {0}",
+        "Selected": "Selected:",
+        "SelectButton": "Ayarlamak",
+        "CancelButton": "İptal",
+        "Blankslate": "There are no records for this object"
+    },
+    "SearchInput": {
+        "Placeholder": "Ara",
+        "Settings": {
+            "Cancel": "İptal",
+            "Apply": "Uygulamak",
+            "SearchColumnTemplate": "Search by column \"{0}\"",
+            "StartsWith": "Starts with",
+            "Contains": "İçerir",
+            "Equals": "Equals"
+        }
+    },
+    "BaseTableDetail": {
+        "Add": "Ek",
+        "BlankslateWithFilters": "Mevcut arama kriterleriyle eşleşen kayıt yok. Arama parametrelerini temizleyin veya değiştirin"
+    },
+    "ChatSettings": {
+        "ChatWindow": {
+            "AcceptChatButton": "Accept chat",
+            "AlreadyAssignedChat": "Chat was assigned to another agent",
+            "NewMessages": "New messages",
+            "ChatIsCompleted": "Chat completed {datePart} at {timePart}",
+            "AcademyLink": "https://academy.creatio.com/docs/8-0/user/setup_and_administration/base_integrations/set_up_chats/overview/set_up_chat_processing",
+            "LastChatMessageAuthorCaption": "You:",
+            "DraftMessageCaption": "Draft:",
+            "BlankSlates": {
+                "Default": {
+                    "reason": "Chat channels are not configured",
+                    "textStart": "Please contact your system administrator and request to set up a channel. Learn more about working with chats in the ",
+                    "academyLink": {
+                        "displayText": "Akademi"
+                    }
+                },
+                "HasRightsAndNoChannel": {
+                    "reason": "Chat channels are not configured",
+                    "textStart": "Please ",
+                    "splitTextLink": {
+                        "href": "/ClientApp/#/ChatSettings",
+                        "displayText": "Ek"
+                    },
+                    "academyLink": {
+                        "displayText": "Akademi"
+                    },
+                    "textEnd": " a new channel. Learn more about working with chats in the "
+                },
+                "HasRightsAndChannelButInactive": {
+                    "reason": "New chats are not distributed to inactive agents",
+                    "textStart": "Please change your status to \"Active.\" Learn more about working with chats in the ",
+                    "academyLink": {
+                        "displayText": "Akademi"
+                    }
+                },
+                "HasRightsAndChannelAndIsActive": {
+                    "reason": "There are no queued chats",
+                    "textStart": "Learn more about working with chats in the ",
+                    "academyLink": {
+                        "displayText": "Akademi"
+                    }
+                },
+                "HasNotRightsAndHasChannelAndInactive": {
+                    "reason": "New chats are not distributed to inactive agents",
+                    "textStart": "Please change your status to \"Active.\" Learn more about working with chats in the ",
+                    "academyLink": {
+                        "displayText": "Akademi"
+                    }
+                },
+                "HasNotRightsAndHasChannelAndIsActive": {
+                    "reason": "There are no queued chats",
+                    "textStart": "Learn more about working with chats in the Academy ",
+                    "academyLink": {
+                        "displayText": "Akademi"
+                    }
+                },
+                "HasNoActiveChats": {
+                    "reason": "It looks like you don't have chats at work. Check the list of new chats"
+                }
+            },
+            "Actions": {
+                "Complete": "Complete chat",
+                "ProcessesDivider": "Süreçler",
+                "EmptyProcessesList": "Add a business process on the \"Chat Actions\" detail",
+                "SearchFacebook": "Search on Facebook",
+                "ContactDuplicates": {
+                    "Show": "Yinelenen kişileri göster",
+                    "NotFound": "Duplicate contacts not found",
+                    "Find": "Find duplicate contacts"
+                },
+                "Back": "Back",
+                "Transfer": "Transfer chat"
+            },
+            "ChatListTitle": "Active chats",
+            "Tips": {
+                "BackToChats": "Back to list"
+            },
+            "Bots": {
+                "Name": "Bot"
+            },
+            "NewMessagePlaceholder": "Message",
+            "AttachFile": "Dosya",
+            "OversizeFiles": "25 MB maximum file size limit exceeded in the following file(s)\n{0}",
+            "NewChatsTitle": "Yeni sohbetler"
+        },
+        "History": {
+            "Captions": {
+                "StartDate": "Chat started: {0} by",
+                "EndDate": "Chat completed: {0} by"
+            }
+        },
+        "PreChatSummary": {
+            "Caption": "Pre-chat summary",
+            "Toggle": {
+                "Opened": "Hide",
+                "Closed": "Daha fazla göster"
+            },
+            "Fields": {
+                "Source": "Kaynak"
+            }
+        },
+        "Deduplication": {
+            "DuplicatesFoundTemplate": "Found {0} similar contacts",
+            "DuplicatesNotFound": "No similar contacts found",
+            "FindDuplication": "Find similar contacts"
+        },
+        "Transfer": {
+            "ToOperator": "Temsilci",
+            "ToQueue": "Kuyruk",
+            "TransferWindowCaption": "Transfer to",
+            "OperatorStatusTips": {
+                "Active": "Aktif",
+                "Inactive": "Aktif değil",
+                "ChatsExceeded": "Chats exceeded"
+            },
+            "NoAvailableAgents": "There are no available agents to transfer",
+            "NoAvailableQueues": "There are no available queues to transfer"
+        }
+    },
+    "InfoDialog": {
+        "OK": "OK"
+    },
+    "MessageTemplate": {
+        "Suggestion": "Template suggestions",
+        "SuggestionHint": "Try typing a word to start searching",
+        "QuickSearchHint": "Enter // to search for a template",
+        "TemplateSearchCaption": "Answer templates"
+    },
+    "NotificationsDisabled": {
+        "textStart": "Browser notifications are disabled. Enable notifications to receive new message alerts. Read more on ",
+        "splitTextLink": {
+            "displayText": "Akademi",
+            "href": "https://academy.creatio.com/docs/8-0/user/platform_basics/communications/notifications/check_notifications_and_process_tasks#title-2099-2"
+        }
+    }
+}

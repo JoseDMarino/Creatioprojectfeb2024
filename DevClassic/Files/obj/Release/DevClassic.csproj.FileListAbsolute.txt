@@ -1,0 +1,9 @@
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\Bin\DevClassic.dll
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\Bin\DevClassic.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.csproj.AssemblyReference.cache
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.GeneratedMSBuildEditorConfig.editorconfig
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.AssemblyInfoInputs.cache
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.AssemblyInfo.cs
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.csproj.CoreCompileInputs.cache
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.dll
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.pdb

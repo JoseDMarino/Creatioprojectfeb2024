@@ -1,0 +1,10 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/CrtCoreBase/Schemas/BaseEntity/BaseEntity.cs" Condition="Exists('$(PkgPath)/CrtCoreBase/Schemas/BaseEntity/BaseEntity.cs')" />
+		<Compile Include="$(PkgPath)/CrtCoreBase/Schemas/MockableServiceUrl/MockableServiceUrl.cs" Condition="Exists('$(PkgPath)/CrtCoreBase/Schemas/MockableServiceUrl/MockableServiceUrl.cs')" />
+		<Compile Include="$(PkgPath)/CrtCoreBase/Schemas/SysCulture/SysCulture.cs" Condition="Exists('$(PkgPath)/CrtCoreBase/Schemas/SysCulture/SysCulture.cs')" />
+		<Compile Include="$(PkgPath)/CrtCoreBase/Schemas/SysProcessUserTask/SysProcessUserTask.cs" Condition="Exists('$(PkgPath)/CrtCoreBase/Schemas/SysProcessUserTask/SysProcessUserTask.cs')" />
+		<Compile Include="$(PkgPath)/CrtCoreBase/Schemas/SysSettings/SysSettings.cs" Condition="Exists('$(PkgPath)/CrtCoreBase/Schemas/SysSettings/SysSettings.cs')" />
+		<Compile Include="$(PkgPath)/CrtCoreBase/Schemas/SysSettingsValue/SysSettingsValue.cs" Condition="Exists('$(PkgPath)/CrtCoreBase/Schemas/SysSettingsValue/SysSettingsValue.cs')" />
+	</ItemGroup>
+</Project>

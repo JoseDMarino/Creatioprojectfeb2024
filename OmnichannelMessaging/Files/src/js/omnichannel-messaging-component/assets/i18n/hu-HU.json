@@ -1,0 +1,160 @@
+{
+    "LookupDialog": {
+        "TitleTemplate": "Válassza ki: {0}",
+        "Selected": "Kiválasztott:",
+        "SelectButton": "Kiválasztás",
+        "CancelButton": "Mégsem",
+        "Blankslate": "Ehhez az objektumhoz nincsenek rekordok"
+    },
+    "SearchInput": {
+        "Placeholder": "Keresés",
+        "Settings": {
+            "Cancel": "Mégsem",
+            "Apply": "Alkalmaz",
+            "SearchColumnTemplate": "Keresés \"{0}\" oszlop szerint",
+            "StartsWith": "Kezdődik",
+            "Contains": "Tartalmazza",
+            "Equals": "Egyenlő"
+        }
+    },
+    "BaseTableDetail": {
+        "Add": "Hozzáadás",
+        "BlankslateWithFilters": "Nincsenek az aktuális keresési feltételeknek megfelelő rekordok. Állítson be más keresési paramétereket"
+    },
+    "ChatSettings": {
+        "ChatWindow": {
+            "AcceptChatButton": "Csevegés elfogadása",
+            "AlreadyAssignedChat": "A csevegést egy másik ügynökhöz rendelték",
+            "NewMessages": "Új üzenetek",
+            "ChatIsCompleted": "A csevegés befejeződött {datePart} {timePart} időpontban",
+            "AcademyLink": "https://academy.creatio.com/docs/8-0/user/setup_and_administration/base_integrations/set_up_chats/overview/set_up_chat_processing",
+            "LastChatMessageAuthorCaption": "Ön:",
+            "DraftMessageCaption": "Vázlat:",
+            "BlankSlates": {
+                "Default": {
+                    "reason": "A csevegőcsatornák nincsenek konfigurálva",
+                    "textStart": "Kérjük, lépjen kapcsolatba a rendszergazdával, és kérje a csatorna beállítását. További információk a csevegésekkel való munkáról a ",
+                    "academyLink": {
+                        "displayText": "Akadémia"
+                    }
+                },
+                "HasRightsAndNoChannel": {
+                    "reason": "A csevegőcsatornák nincsenek konfigurálva",
+                    "textStart": "Kérem",
+                    "splitTextLink": {
+                        "href": "/ClientApp/#/ChatSettings",
+                        "displayText": "hozzáadás"
+                    },
+                    "academyLink": {
+                        "displayText": "Akadémia"
+                    },
+                    "textEnd": " egy új csatorna. További információk a csevegésekkel való munkáról a "
+                },
+                "HasRightsAndChannelButInactive": {
+                    "reason": "Az új csevegések nem kerülnek kiosztásra az inaktív ügynökök között",
+                    "textStart": "Kérjük, módosítsa státuszát \"Aktív\"-ra. További információk a csevegésekkel való munkáról a ",
+                    "academyLink": {
+                        "displayText": "Akadémia"
+                    }
+                },
+                "HasRightsAndChannelAndIsActive": {
+                    "reason": "Nincsenek sorban várakozó csevegések",
+                    "textStart": "Tudjon meg többet a csevegésekkel való munkáról a ",
+                    "academyLink": {
+                        "displayText": "Akadémia"
+                    }
+                },
+                "HasNotRightsAndHasChannelAndInactive": {
+                    "reason": "Az új csevegések nem kerülnek kiosztásra az inaktív ügynökök között",
+                    "textStart": "Kérjük, módosítsa státuszát \"Aktív\"-ra. További információk a csevegésekkel való munkáról a ",
+                    "academyLink": {
+                        "displayText": "Akadémia"
+                    }
+                },
+                "HasNotRightsAndHasChannelAndIsActive": {
+                    "reason": "There are no queued chats",
+                    "textStart": "Learn more about working with chats in the Academy ",
+                    "academyLink": {
+                        "displayText": "Academy"
+                    }
+                },
+                "HasNoActiveChats": {
+                    "reason": "It looks like you don't have chats at work. Check the list of new chats"
+                }
+            },
+            "Actions": {
+                "Complete": "Complete chat",
+                "ProcessesDivider": "Folyamatok",
+                "EmptyProcessesList": "Add a business process on the \"Chat Actions\" detail",
+                "SearchFacebook": "Search on Facebook",
+                "ContactDuplicates": {
+                    "Show": "Show duplicate contacts",
+                    "NotFound": "Duplicate contacts not found",
+                    "Find": "Find duplicate contacts"
+                },
+                "Back": "Vissza",
+                "Transfer": "Transfer chat"
+            },
+            "ChatListTitle": "Active chats",
+            "Tips": {
+                "BackToChats": "Vissza a listához"
+            },
+            "Bots": {
+                "Name": "Fluent űrlapok Bot"
+            },
+            "NewMessagePlaceholder": "Üzenet",
+            "AttachFile": "Fájl",
+            "OversizeFiles": "25 MB maximum file size limit exceeded in the following file(s)\n{0}",
+            "NewChatsTitle": "New chats"
+        },
+        "History": {
+            "Captions": {
+                "StartDate": "Chat started: {0} by",
+                "EndDate": "Chat completed: {0} by"
+            }
+        },
+        "PreChatSummary": {
+            "Caption": "Pre-chat summary",
+            "Toggle": {
+                "Opened": "Elrejtés",
+                "Closed": "Mutass többet"
+            },
+            "Fields": {
+                "Source": "Forrás"
+            }
+        },
+        "Deduplication": {
+            "DuplicatesFoundTemplate": "Found {0} similar contacts",
+            "DuplicatesNotFound": "No similar contacts found",
+            "FindDuplication": "Find similar contacts"
+        },
+        "Transfer": {
+            "ToOperator": "Ügynök",
+            "ToQueue": "Feldolgozási sor",
+            "TransferWindowCaption": "Transfer to",
+            "OperatorStatusTips": {
+                "Active": "Aktív",
+                "Inactive": "Inaktív",
+                "ChatsExceeded": "Chats exceeded"
+            },
+            "NoAvailableAgents": "There are no available agents to transfer",
+            "NoAvailableQueues": "There are no available queues to transfer"
+        }
+    },
+    "InfoDialog": {
+        "OK": "OK"
+    },
+    "MessageTemplate": {
+        "Suggestion": "Template suggestions",
+        "SuggestionHint": "Try typing a word to start searching",
+        "QuickSearchHint": "Enter // to search for a template",
+        "TemplateSearchCaption": "Answer templates"
+    },
+    "NotificationsDisabled": {
+        "textStart": "Browser notifications are disabled. Enable notifications to receive new message alerts. Read more on ",
+        "splitTextLink": {
+            "href": "https://academy.creatio.com/docs/8-0/user/platform_basics/communications/notifications/check_notifications_and_process_tasks#title-2099-2",
+            "displayText": "Academy"
+        }
+    }
+}

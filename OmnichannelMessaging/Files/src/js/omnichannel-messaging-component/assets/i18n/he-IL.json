@@ -1,0 +1,160 @@
+{
+    "LookupDialog": {
+        "TitleTemplate": "Select: {0}",
+        "Selected": "נבחר:",
+        "SelectButton": "בחר",
+        "CancelButton": "בטל",
+        "Blankslate": "אין רשומות לאובייקט זה"
+    },
+    "SearchInput": {
+        "Placeholder": "חפש",
+        "Settings": {
+            "Cancel": "בטל",
+            "Apply": "יישם",
+            "SearchColumnTemplate": "Search by column \"{0}\"",
+            "StartsWith": "מתחיל עם",
+            "Contains": "מכיל",
+            "Equals": "Equals"
+        }
+    },
+    "BaseTableDetail": {
+        "Add": "הוסף",
+        "BlankslateWithFilters": "אין רשומות התואמות את קריטריוני החיפוש הנוכחיים. נקה או שנה פרמטרים של חיפוש"
+    },
+    "ChatSettings": {
+        "ChatWindow": {
+            "AcceptChatButton": "קבל צ'אט",
+            "AlreadyAssignedChat": "Chat was assigned to another agent",
+            "NewMessages": "הודעה חדשה",
+            "ChatIsCompleted": "הצ'אט הושלם {datePart} ב-{timePart}",
+            "AcademyLink": "https://academy.creatio.com/docs/8-0/user/setup_and_administration/base_integrations/set_up_chats/overview/set_up_chat_processing",
+            "LastChatMessageAuthorCaption": "You:",
+            "DraftMessageCaption": "טיוטה:",
+            "BlankSlates": {
+                "Default": {
+                    "reason": "Chat channels are not configured",
+                    "textStart": "Please contact your system administrator and request to set up a channel. Learn more about working with chats in the ",
+                    "academyLink": {
+                        "displayText": "אקדמיה"
+                    }
+                },
+                "HasRightsAndNoChannel": {
+                    "reason": "Chat channels are not configured",
+                    "textStart": "בבקשה ",
+                    "splitTextLink": {
+                        "href": "/ClientApp/#/ChatSettings",
+                        "displayText": "הוסף"
+                    },
+                    "academyLink": {
+                        "displayText": "אקדמיה"
+                    },
+                    "textEnd": " ערוץ חדש. למידע נוסף על עבודה עם צ'אטים ב- "
+                },
+                "HasRightsAndChannelButInactive": {
+                    "reason": "צ'אטים חדשים אינם מופצים לסוכנים לא פעילים",
+                    "textStart": "אנא שנה את הסטטוס שלך ל\"פעיל\". למידע נוסף על עבודה עם צ'אטים ב- ",
+                    "academyLink": {
+                        "displayText": "אקדמיה"
+                    }
+                },
+                "HasRightsAndChannelAndIsActive": {
+                    "reason": "אין צ'אטים בתור",
+                    "textStart": "למידע נוסף על עבודה עם צ'אטים ב- ",
+                    "academyLink": {
+                        "displayText": "אקדמיה"
+                    }
+                },
+                "HasNotRightsAndHasChannelAndInactive": {
+                    "reason": "צ'אטים חדשים אינם מופצים לסוכנים לא פעילים",
+                    "textStart": "אנא שנה את הסטטוס שלך ל\"פעיל\". למידע נוסף על עבודה עם צ'אטים ב- ",
+                    "academyLink": {
+                        "displayText": "אקדמיה"
+                    }
+                },
+                "HasNotRightsAndHasChannelAndIsActive": {
+                    "reason": "אין צ'אטים בתור",
+                    "textStart": "למידע נוסף על עבודה עם צ'אטים באקדמיה ",
+                    "academyLink": {
+                        "displayText": "אקדמיה"
+                    }
+                },
+                "HasNoActiveChats": {
+                    "reason": "נראה שאין לך צ'אטים בעבודה. בדוק את רשימת הצ'אטים החדשים"
+                }
+            },
+            "Actions": {
+                "Complete": "סיים צ'אט",
+                "ProcessesDivider": "תהליכים",
+                "EmptyProcessesList": "Add a business process on the \"Chat Actions\" detail",
+                "SearchFacebook": "חיפוש בפייסבוק",
+                "ContactDuplicates": {
+                    "Show": "הצג אנשי קשר כפולים",
+                    "NotFound": "לא נמצא איש קשר כפול",
+                    "Find": "Find duplicate contacts"
+                },
+                "Back": "חזור",
+                "Transfer": "העבר צ'אט"
+            },
+            "ChatListTitle": "צ'אטים פעילים",
+            "Tips": {
+                "BackToChats": "חזרה לרשימה"
+            },
+            "Bots": {
+                "Name": "בוט"
+            },
+            "NewMessagePlaceholder": "הודעה",
+            "AttachFile": "קובץ",
+            "OversizeFiles": "25 MB maximum file size limit exceeded in the following file(s)\n{0}",
+            "NewChatsTitle": "צ'אטים חדשים"
+        },
+        "History": {
+            "Captions": {
+                "StartDate": "Chat started: {0} by",
+                "EndDate": "Chat completed: {0} by"
+            }
+        },
+        "PreChatSummary": {
+            "Caption": "Pre-chat summary",
+            "Toggle": {
+                "Opened": "הסתר",
+                "Closed": "הראה יותר"
+            },
+            "Fields": {
+                "Source": "מקור"
+            }
+        },
+        "Deduplication": {
+            "DuplicatesFoundTemplate": "Found {0} similar contacts",
+            "DuplicatesNotFound": "No similar contacts found",
+            "FindDuplication": "Find similar contacts"
+        },
+        "Transfer": {
+            "ToOperator": "סוכן",
+            "ToQueue": "Queue",
+            "TransferWindowCaption": "Transfer to",
+            "OperatorStatusTips": {
+                "Active": "פעיל",
+                "Inactive": "לא פעיל",
+                "ChatsExceeded": "Chats exceeded"
+            },
+            "NoAvailableAgents": "There are no available agents to transfer",
+            "NoAvailableQueues": "There are no available queues to transfer"
+        }
+    },
+    "InfoDialog": {
+        "OK": "קח את זה"
+    },
+    "MessageTemplate": {
+        "Suggestion": "Template suggestions",
+        "SuggestionHint": "Try typing a word to start searching",
+        "QuickSearchHint": "Enter // to search for a template",
+        "TemplateSearchCaption": "Answer templates"
+    },
+    "NotificationsDisabled": {
+        "textStart": "Browser notifications are disabled. Enable notifications to receive new message alerts. Read more on ",
+        "splitTextLink": {
+            "displayText": "אקדמיה",
+            "href": "https://academy.creatio.com/docs/8-0/user/platform_basics/communications/notifications/check_notifications_and_process_tasks#title-2099-2"
+        }
+    }
+}
