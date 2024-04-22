@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.sourcelink.json

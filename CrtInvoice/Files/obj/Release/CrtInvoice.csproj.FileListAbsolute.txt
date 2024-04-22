@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\R
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtInvoice\Files\obj\Release\CrtInvoice.sourcelink.json

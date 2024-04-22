@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtLeadOppMgmtInC360\F
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtLeadOppMgmtInC360\Files\obj\Release\CrtLeadOppMgmtInC360.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtLeadOppMgmtInC360\Files\obj\Release\CrtLeadOppMgmtInC360.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtLeadOppMgmtInC360\Files\obj\Release\CrtLeadOppMgmtInC360.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtLeadOppMgmtInC360\Files\obj\Release\CrtLeadOppMgmtInC360.sourcelink.json

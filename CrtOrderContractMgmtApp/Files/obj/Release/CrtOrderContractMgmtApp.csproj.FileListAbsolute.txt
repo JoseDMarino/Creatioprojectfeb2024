@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtAp
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOrderContractMgmtApp\Files\obj\Release\CrtOrderContractMgmtApp.sourcelink.json

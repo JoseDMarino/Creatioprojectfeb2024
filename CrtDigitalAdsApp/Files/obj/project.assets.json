@@ -539,23 +539,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_Creatiostudio1\\Default\\dotnet\\.nuget\\packages\\": {},
+    "C:\\Users\\Jose\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "8.1.1.3635",
+    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\CRFULL811\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDigitalAdsApp\\Files\\CrtDigitalAdsApp.csproj",
       "projectName": "CrtDigitalAdsApp",
       "projectPath": "C:\\CRFULL811\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDigitalAdsApp\\Files\\CrtDigitalAdsApp.csproj",
-      "packagesPath": "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_Creatiostudio1\\Default\\dotnet\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Jose\\.nuget\\packages\\",
       "outputPath": "C:\\CRFULL811\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtDigitalAdsApp\\Files\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_Creatiostudio1\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

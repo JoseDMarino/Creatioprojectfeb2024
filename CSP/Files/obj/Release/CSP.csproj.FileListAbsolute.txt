@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSP\Files\obj\Release\
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSP\Files\obj\Release\CSP.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSP\Files\obj\Release\CSP.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSP\Files\obj\Release\CSP.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSP\Files\obj\Release\CSP.sourcelink.json

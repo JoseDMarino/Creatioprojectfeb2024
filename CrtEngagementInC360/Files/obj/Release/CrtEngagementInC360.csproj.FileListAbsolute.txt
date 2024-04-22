@@ -24,3 +24,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Fi
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtEngagementInC360\Files\obj\Release\CrtEngagementInC360.sourcelink.json

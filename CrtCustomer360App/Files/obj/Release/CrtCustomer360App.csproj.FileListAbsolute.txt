@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360App\File
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360App\Files\obj\Release\CrtCustomer360App.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360App\Files\obj\Release\CrtCustomer360App.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360App\Files\obj\Release\CrtCustomer360App.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCustomer360App\Files\obj\Release\CrtCustomer360App.sourcelink.json

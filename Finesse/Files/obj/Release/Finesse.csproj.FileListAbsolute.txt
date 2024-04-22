@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Rele
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Finesse\Files\obj\Release\Finesse.sourcelink.json

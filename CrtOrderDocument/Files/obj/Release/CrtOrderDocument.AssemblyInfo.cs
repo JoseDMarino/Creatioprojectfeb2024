@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrtOrderDocument")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.1.1.3635")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.1.3635")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.1.3635+9fe01815e98d5fcb21cb03aaa1fca23d2a94235d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrtOrderDocument")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrtOrderDocument")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.1.1.3635")]

@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLM7x\Files\obj\Rel
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLM7x\Files\obj\Release\CrtSLM7x.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLM7x\Files\obj\Release\CrtSLM7x.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLM7x\Files\obj\Release\CrtSLM7x.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSLM7x\Files\obj\Release\CrtSLM7x.sourcelink.json

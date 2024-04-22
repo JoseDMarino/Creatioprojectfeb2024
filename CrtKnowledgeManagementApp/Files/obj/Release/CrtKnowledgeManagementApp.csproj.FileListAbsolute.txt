@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtKnowledgeManagement
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtKnowledgeManagementApp\Files\obj\Release\CrtKnowledgeManagementApp.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtKnowledgeManagementApp\Files\obj\Release\CrtKnowledgeManagementApp.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtKnowledgeManagementApp\Files\obj\Release\CrtKnowledgeManagementApp.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtKnowledgeManagementApp\Files\obj\Release\CrtKnowledgeManagementApp.sourcelink.json

@@ -22,3 +22,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\File
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProces.AE182BFB.Up2Date
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLProcessDesigner\Files\obj\Release\MLProcessDesigner.sourcelink.json

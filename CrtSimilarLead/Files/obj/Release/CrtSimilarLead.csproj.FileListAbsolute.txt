@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSimilarLead\Files\o
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSimilarLead\Files\obj\Release\CrtSimilarLead.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSimilarLead\Files\obj\Release\CrtSimilarLead.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSimilarLead\Files\obj\Release\CrtSimilarLead.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSimilarLead\Files\obj\Release\CrtSimilarLead.sourcelink.json

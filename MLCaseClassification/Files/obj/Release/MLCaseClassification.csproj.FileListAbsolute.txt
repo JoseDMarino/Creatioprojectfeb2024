@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLCaseClassification\F
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLCaseClassification\Files\obj\Release\MLCaseClassification.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLCaseClassification\Files\obj\Release\MLCaseClassification.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLCaseClassification\Files\obj\Release\MLCaseClassification.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\MLCaseClassification\Files\obj\Release\MLCaseClassification.sourcelink.json

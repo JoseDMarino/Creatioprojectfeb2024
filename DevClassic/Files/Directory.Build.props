@@ -1,3 +1,13 @@
 <Project>
-	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''"></ItemGroup>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyTypeClassic/UsrRealtyTypeClassic.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyTypeClassic/UsrRealtyTypeClassic.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyClassic/UsrRealtyClassic.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyClassic/UsrRealtyClassic.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicInFolder/UsrRealtyClassicInFolder.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicInFolder/UsrRealtyClassicInFolder.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicTag/UsrRealtyClassicTag.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicTag/UsrRealtyClassicTag.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicInTag/UsrRealtyClassicInTag.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicInTag/UsrRealtyClassicInTag.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyOfferTypeClassic/UsrRealtyOfferTypeClassic.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyOfferTypeClassic/UsrRealtyOfferTypeClassic.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicFile/UsrRealtyClassicFile.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicFile/UsrRealtyClassicFile.cs')" />
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicFolder/UsrRealtyClassicFolder.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyClassicFolder/UsrRealtyClassicFolder.cs')" />
+	</ItemGroup>
 </Project>

@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC360InUiV2\Files\ob
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC360InUiV2\Files\obj\Release\CrtC360InUiV2.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC360InUiV2\Files\obj\Release\CrtC360InUiV2.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC360InUiV2\Files\obj\Release\CrtC360InUiV2.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC360InUiV2\Files\obj\Release\CrtC360InUiV2.sourcelink.json

@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Fi
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOCMInLeadOppMgmt\Files\obj\Release\CrtOCMInLeadOppMgmt.sourcelink.json

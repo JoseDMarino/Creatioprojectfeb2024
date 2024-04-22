@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseService7x\Files
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseService7x\Files\obj\Release\CrtCaseService7x.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseService7x\Files\obj\Release\CrtCaseService7x.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseService7x\Files\obj\Release\CrtCaseService7x.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCaseService7x\Files\obj\Release\CrtCaseService7x.sourcelink.json

@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.sourcelink.json

@@ -26,3 +26,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtDigitalAdsApp\Files\obj\Release\CrtDigitalAdsApp.sourcelink.json

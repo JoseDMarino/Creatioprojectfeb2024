@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtNextStep\Files\obj\
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtNextStep\Files\obj\Release\CrtNextStep.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtNextStep\Files\obj\Release\CrtNextStep.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtNextStep\Files\obj\Release\CrtNextStep.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtNextStep\Files\obj\Release\CrtNextStep.sourcelink.json

@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Fi
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtTouchPointInLead\Files\obj\Release\CrtTouchPointInLead.sourcelink.json

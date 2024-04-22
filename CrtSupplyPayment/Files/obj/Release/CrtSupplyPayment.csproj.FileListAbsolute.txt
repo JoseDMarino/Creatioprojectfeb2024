@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSupplyPayment\Files
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSupplyPayment\Files\obj\Release\CrtSupplyPayment.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSupplyPayment\Files\obj\Release\CrtSupplyPayment.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSupplyPayment\Files\obj\Release\CrtSupplyPayment.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtSupplyPayment\Files\obj\Release\CrtSupplyPayment.sourcelink.json

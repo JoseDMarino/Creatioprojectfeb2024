@@ -7,3 +7,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\R
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassic\Files\obj\Release\DevClassic.sourcelink.json

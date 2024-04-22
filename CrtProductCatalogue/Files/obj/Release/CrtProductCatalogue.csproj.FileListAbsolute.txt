@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogue\Fi
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogue\Files\obj\Release\CrtProductCatalogue.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogue\Files\obj\Release\CrtProductCatalogue.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogue\Files\obj\Release\CrtProductCatalogue.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductCatalogue\Files\obj\Release\CrtProductCatalogue.sourcelink.json

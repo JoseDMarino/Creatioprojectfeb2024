@@ -16,3 +16,4 @@ C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductivityApp\Fil
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductivityApp\Files\obj\Release\CrtProductivityApp.csproj.CoreCompileInputs.cache
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductivityApp\Files\obj\Release\CrtProductivityApp.dll
 C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductivityApp\Files\obj\Release\CrtProductivityApp.pdb
+C:\CRFULL811\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtProductivityApp\Files\obj\Release\CrtProductivityApp.sourcelink.json
